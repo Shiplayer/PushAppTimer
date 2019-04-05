@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PushAppTimer</string>
+    <string name="time_out">Time Out!</string>
+</resources>
